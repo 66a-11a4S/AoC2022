@@ -1,6 +1,7 @@
 # AoC2022
 
 * Advent of Code 2022 ( https://adventofcode.com/2022 ) の問題を解いたコード
+* 詰まっている人の助けになれば幸いです
 
 <img width="478" alt="AoC2022" src="https://user-images.githubusercontent.com/12789546/215233033-9888a22f-eea4-42f9-aee9-66ae414a0859.png">
 
